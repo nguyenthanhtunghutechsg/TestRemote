@@ -4,4 +4,6 @@ int b = 5;
 int g = 15
 int c = 4;
 int d = 6
+int x = g+d;
+int z- d+a;
 
