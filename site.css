@@ -1,6 +1,7 @@
 html{
 margin-bottom: 5px;
 font-family:sans-serif;
+display: inline-blocks;
 }
 
 body{
