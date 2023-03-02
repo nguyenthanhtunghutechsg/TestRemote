@@ -1,6 +1,7 @@
 int a = 1;
 int e = 10;
-
 int b = 5;
 int g = 15
+int c = 4;
+int d = 6
 
