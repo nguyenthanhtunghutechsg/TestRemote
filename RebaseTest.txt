@@ -1,2 +1,6 @@
-int x =10;
-int y =20;
+int k =50;
+int l =60;
+int k =50;
+int l =60;
+int z =30;
+int w = 40;
